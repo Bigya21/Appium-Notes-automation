@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "\"com.socialnmobile.dictapps.notepad.color.note:id/edit_note\"]"
+}
